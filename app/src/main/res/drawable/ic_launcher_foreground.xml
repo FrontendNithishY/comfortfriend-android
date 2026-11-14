@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crescent moon hugging a small heart: calm night, gentle company -->
+    <path
+        android:fillColor="#C9B8FF"
+        android:pathData="M60,30 C46,32 36,43 36,56 C36,70 47,80 61,80 C67,80 72,78 76,75 C58,74 48,62 50,49 C51,41 55,35 60,30 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,50 C68,46 72,44 74,47 C76,44 80,46 80,50 C80,55 74,59 74,59 C74,59 68,55 68,50 Z" />
+</vector>
