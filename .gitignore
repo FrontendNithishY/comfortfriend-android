@@ -1,0 +1,38 @@
+# Build outputs
+*.iml
+.gradle/
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+bin/
+gen/
+out/
+
+# Local configuration and secrets
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
+signing.properties
+secrets.properties
+google-services.json
+*.key
+
+# User data exports (may contain private conversations)
+comfortfriend-export*.json
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
